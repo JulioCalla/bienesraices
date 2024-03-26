@@ -11,4 +11,6 @@ router.post('/registro', registrar)
 
 router.get('/olvide-password', formularioOlvidePassword)
 
+
+
 export default router
